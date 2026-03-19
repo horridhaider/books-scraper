@@ -33,7 +33,7 @@ This project scrapes book data from [books.toscrape.com](https://books.toscrape.
 
 | Title | Price | Rating | Stock | URL |
 | -------------------- | ----- | ----- | -------- | ------------------------------------------------------------------------------------------- |
-| A Light in the Attic | 51.77 | Three | In stock | [https://books.toscrape.com/](https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html) |
+| A Light in the Attic | 51.77 |    3 | In stock | [https://books.toscrape.com/](https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html) |
 
 ## Notes
 
