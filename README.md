@@ -25,7 +25,7 @@ This project scrapes book data from [books.toscrape.com](https://books.toscrape.
     ```bash
     python scraper.py
 
-3. Check the generated books_dataset.csv and books_dataset.json
+3. Check the generated "output_data/books_dataset.csv" and "output_data/books_dataset.json"
 
 ## Sample Output
 				
