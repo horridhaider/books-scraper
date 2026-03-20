@@ -25,7 +25,7 @@ This project scrapes book data from [books.toscrape.com](https://books.toscrape.
     ```bash
     python scraper.py
 
-3. Check the generated Scraped Data.csv and Scraped Data.json
+3. Check the generated books_dataset.csv and books_dataset.json
 
 ## Sample Output
 				
@@ -33,7 +33,7 @@ This project scrapes book data from [books.toscrape.com](https://books.toscrape.
 
 | Title | Price | Rating | Stock | URL |
 | -------------------- | ----- | ----- | -------- | ------------------------------------------------------------------------------------------- |
-| A Light in the Attic | 51.77 |    3 | In stock | [https://books.toscrape.com/](https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html) |
+| A Light in the Attic | 51.77 | :3: | In stock | [https://books.toscrape.com/](https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html) |
 
 ## Notes
 
