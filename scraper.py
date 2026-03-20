@@ -64,7 +64,7 @@ def extract_books(response):
 def save_data(all_books):
     df = pd.DataFrame(all_books)
     df.to_csv("books_dataset.csv", index=False, encoding="utf-8-sig")
-    df.to_json("books_dataset.json", index=False)
+    df.to_json("project2_data.json", orient="records", force_ascii=False, indent=4)
     print("Successfully Exported as .csv and .json!")
     print(df.head())    # displays some initital books data
 
